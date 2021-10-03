@@ -8,3 +8,6 @@ I learned to structure the code with proper semantics such as header, sections w
 and alts were added to aid in accessibility. 
 When all the div.’s were replaced with proper semantics, all elements of the website 
 functioned correctly.
+
+https://smccarthy17.github.io/-Challenge-1/
+
