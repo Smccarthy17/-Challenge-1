@@ -1,4 +1,4 @@
-HTML, CSS, AND Git: Refactoring
+# HTML, CSS, AND Git: Refactoring
 
 This project was refactoring the code for the marketing company. 
 I refactored the code semantics to make it easier for someone who 
