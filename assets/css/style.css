@@ -4,10 +4,11 @@
     margin: 0;
 }
 
+/*Begin Body*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Begin the Header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +50,9 @@ a {
 p {
     font-size: 16px;
 }
+/* End the Body*/
 
+/* Begin the Hero*/
 .hero {
     height: 800px;
     width: 100%;
@@ -111,11 +114,8 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img,.online-reputation-management img,.social-media-marketing img {
-    max-height: 200px;
-}
-
 .search-engine-optimization h2,.online-reputation-management h2,.social-media-marketing h2 {
+    max-height: 200px;
     margin-bottom: 20px;
     font-size: 36px;
 }
