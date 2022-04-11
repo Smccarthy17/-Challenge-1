@@ -34,3 +34,5 @@ DEPLOYED: https://smccarthy17.github.io/-Challenge-1/
 
 GITHUB: https://github.com/Smccarthy17/-Challenge-1.git
 
+<img width="774" alt="Horiseon SS1" src="https://user-images.githubusercontent.com/90977936/162819453-f93d344c-adba-4fa4-b40e-79b17a669a7a.png">
+<img width="877" alt="Horiseon SS2" src="https://user-images.githubusercontent.com/90977936/162819477-2dc9170e-3b49-4074-9034-399cbc0b2c67.png">
