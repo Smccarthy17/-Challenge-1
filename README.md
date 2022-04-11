@@ -1,5 +1,5 @@
+HORISEON REFACTOR & ACCESSIBILITY
 # HTML, CSS, AND Git: Refactoring & Accessibility
-
 
 This project was refactoring the code for the marketing company. 
 I refactored the code semantics to make it easier for someone who 
@@ -24,5 +24,5 @@ Then I am presented with a responsive layout tht adapts to my viewpoint.
 
 DEPLOYED: https://smccarthy17.github.io/-Challenge-1/
 
-GITHUB: git@github.com:Smccarthy17/-Challenge-1.git
+GITHUB: https://github.com/Smccarthy17/-Challenge-1.git
 
