@@ -11,15 +11,23 @@ When all the div.’s were replaced with proper semantics, all elements of the w
 
 THE FOLLOWING TECHNOLOGIES WERE USED: HTML, CSS, and GIT
 
-USER STORY: 
-As a user I want to be able to easily navigate the website, clearly see what each section is representing, and have it be accessible. 
+User Story
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
-
-Acceptance Criteria:
-Given I want clients and potential clients to be able to easily navigate the website and to be able to gain accessibilty if needed. 
-When I click on the navigation bar headings they will take to the designated area. 
-When I resize the page 
-Then I am presented with a responsive layout tht adapts to my viewpoint.
+Acceptance Criteria
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
  
 
 DEPLOYED: https://smccarthy17.github.io/-Challenge-1/
