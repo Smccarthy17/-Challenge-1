@@ -22,5 +22,7 @@ When I resize the page
 Then I am presented with a responsive layout tht adapts to my viewpoint.
  
 
-https://smccarthy17.github.io/-Challenge-1/
+DEPLOYED: https://smccarthy17.github.io/-Challenge-1/
+
+GITHUB: git@github.com:Smccarthy17/-Challenge-1.git
 
