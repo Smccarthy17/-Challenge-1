@@ -10,3 +10,4 @@ When all the div.’s were replaced with proper semantics, all elements of the w
 functioned correctly.
 
 https://smccarthy17.github.io/-Challenge-1/
+
